@@ -1,7 +1,5 @@
 ###### Carent-demo
-Java Swing application for car renting.
 
-#### Popis semestrálneho projektu
 
 ## Stručný popis a užívateľské role
 V rámci svojho semestrálneho projektu som sa rozhodol vytvoriť jednoduchú aplikáciu Carent, ktorá simuluje systém požičovne áut.
@@ -23,7 +21,7 @@ Pre nových zákazníkov bude potrebné sa najprv zaregistrovať, aby si ich sys
 
 
 #### Základná funkcionalita
-##Všeobecne
+## Všeobecne
 - prihlásenie/odhlásenie sa do/z aplikácie
 - vytvorenie nového konta
 - zmena hesla
