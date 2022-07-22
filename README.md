@@ -1,9 +1,9 @@
 ###### Carent-demo
 Java Swing application for car renting.
 
-####Popis semestrálneho projektu
+#### Popis semestrálneho projektu
 
-##Stručný popis a užívateľské role
+## Stručný popis a užívateľské role
 V rámci svojho semestrálneho projektu som sa rozhodol vytvoriť jednoduchú aplikáciu Carent, ktorá simuluje systém požičovne áut.
 V tejto aplikácií budú vystupovať dve užívateľské role, a to majiteľ požičovne áut (admin) a obyčajný zákazník (user). 
 Hlavnou úlohou aplikácie je umožniť zákazníkovi rezervovať si nejaké z aktuálne dostupných áut a vytvoriť tak pre majiteľa prehľad o všetkých objednávkach, o dostupnosti ponúkaných vozidiel alebo o iných systémových atribútov. 
@@ -22,7 +22,7 @@ Ako bolo spomenuté, aplikácia rozlišuje dve užívateľské role a teda aj fu
 Pre nových zákazníkov bude potrebné sa najprv zaregistrovať, aby si ich systém zapamätal a mohli sa následne cez prihlásenie k svojim objednávkam vracať.
 
 
-####Základná funkcionalita
+#### Základná funkcionalita
 ##Všeobecne
 - prihlásenie/odhlásenie sa do/z aplikácie
 - vytvorenie nového konta
@@ -30,7 +30,7 @@ Pre nových zákazníkov bude potrebné sa najprv zaregistrovať, aby si ich sys
 - zobrazenie podrobných informácií o aute, objednávke a užívateľoch
 
 
-##User - zákazník
+## User - zákazník
 - vytvorenie objednávky
 - zrušenie objednávky
 - prezeranie dostupných áut
@@ -40,7 +40,7 @@ Pre nových zákazníkov bude potrebné sa najprv zaregistrovať, aby si ich sys
 - pridávanie peňazí do systému
 
 
-##Admin - správca
+## Admin - správca
 - pridávanie a odoberanie áut na požičanie
 - prezeranie všetkých ponúkaných áut
 - prezeranie všetkých užívateľov systému
