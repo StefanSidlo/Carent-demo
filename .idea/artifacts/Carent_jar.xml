@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Carent:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Carent_jar</output-path>
+    <root id="archive" name="Carent.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Carent" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/derby/derby/10.14.1.0/derby-10.14.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/github/lzh0379/jdatepicker/2.0.3/jdatepicker-2.0.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -35,7 +35,6 @@ public class LoginAction extends AbstractAction {
     public void actionPerformed(ActionEvent e) {
         String username = usernameField.getText();
         String password = String.valueOf(passwordField.getPassword());
-        System.out.println(username + "     " + password);
         if (!userDao.verifyUser(username, password)) {
             JOptionPane.showMessageDialog(null, "Wrong Username & Password");
             return;
